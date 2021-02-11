@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">authFB</string>
+    <string name="facebook_app_id">1144412309315184</string>
 </resources>
