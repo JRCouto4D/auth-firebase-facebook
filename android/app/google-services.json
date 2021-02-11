@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391779203971",
+    "project_id": "authfacebook-a0e27",
+    "storage_bucket": "authfacebook-a0e27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391779203971:android:057367a1921e3d294414b6",
+        "android_client_info": {
+          "package_name": "com.authfb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391779203971-6fldffr9ar369cpie44o7r58a6d3biek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-BR3f12aW1ZHAJXxoMe_YnnxgyhyIxbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391779203971-6fldffr9ar369cpie44o7r58a6d3biek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
